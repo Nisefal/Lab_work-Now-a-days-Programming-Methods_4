@@ -1,0 +1,7 @@
+C:\Users\kolya\source\repos\lab4_bogdanenko\lab4_bogdanenko\obj\Debug\lab4_bogdanenko.csprojResolveAssemblyReference.cache
+C:\Users\kolya\source\repos\lab4_bogdanenko\lab4_bogdanenko\obj\Debug\lab4_bogdanenko.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\lab4_bogdanenko\lab4_bogdanenko\bin\Debug\lab4_bogdanenko.exe.config
+C:\Users\kolya\source\repos\lab4_bogdanenko\lab4_bogdanenko\bin\Debug\lab4_bogdanenko.exe
+C:\Users\kolya\source\repos\lab4_bogdanenko\lab4_bogdanenko\bin\Debug\lab4_bogdanenko.pdb
+C:\Users\kolya\source\repos\lab4_bogdanenko\lab4_bogdanenko\obj\Debug\lab4_bogdanenko.exe
+C:\Users\kolya\source\repos\lab4_bogdanenko\lab4_bogdanenko\obj\Debug\lab4_bogdanenko.pdb
